@@ -33,7 +33,7 @@
 <div align="left">
     <h3>🔨 Languages and Tools:</h3>
     <div>
-        <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="Microsfot SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
+        <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" title="Microsfot SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
         <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="Microsoft Power Bi" alt="Power Bi" width="40" height="40"/>&nbsp;
         <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
         <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
