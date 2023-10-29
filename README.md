@@ -5,8 +5,6 @@
     I consider myself a restless person with a great desire to improve and learn. 
     </h3>
 </div>
-
-<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dtaberna" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/dtaberna?trk=profile-badge">Daniel Alejandro Taberna</a></div>
               
 <div id="badges" align = "center">
     <a href = "https://www.linkedin.com/in/dtaberna">
