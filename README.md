@@ -8,24 +8,26 @@
 
 
 <div id="badges" align = "center">
-    <a heref = "www.linkedin.com/in/dtaberna">
+    <a href = "www.linkedin.com/in/dtaberna">
         <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt = "Linkedin Badge">
     </a>
      <a href="mailto:dtaberna96@gmail.com">
         <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt = "Gmail Badge">
-    </a>   
+    </a>
+  </div>  
 
 ---
 
-### 👨‍💻 About Me :
-
-- 📝 I work as a Reporting & Bi Implementation Analyst
-
-- 📫 How to reach me **dtaberna96@gmail.com**
-
-- 🌱 I’m currently learning **Python for Data**
+<div id="about-me" style="text-align: left;">
+    <h3>👨‍💻 About Me :</h3>
+    <ul>
+        <li>📝 I work as a Reporting & Bi Implementation Analyst</li>
+        <li>📫 How to reach me <strong>dtaberna96@gmail.com</strong></li>
+        <li>🌱 I’m currently learning <strong>Python for Data</strong></li>
+    </ul>
+</div>
 
 
 <div align="left">
