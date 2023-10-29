@@ -6,7 +6,8 @@
     </h3>
 </div>
 
-
+<div class="badge-base LI-profile-badge" data-locale="es_ES" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="dtaberna" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ar.linkedin.com/in/dtaberna?trk=profile-badge">Daniel Alejandro Taberna</a></div>
+              
 <div id="badges" align = "center">
     <a href = "https://www.linkedin.com/in/dtaberna">
         <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
