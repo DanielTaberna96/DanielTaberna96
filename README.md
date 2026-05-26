@@ -5,16 +5,16 @@
     <p align="center">
         Especializado en el diseño de modelos de datos eficientes, optimización de performance y automatización de pipelines en entornos productivos. 
     </p>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/dtaberna">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin">
+        </a>
+        &nbsp;
+        <a href="mailto:dtaberna96@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+    </p>
 </div>
-              
-<div id="badges" align="center">
-    <a href="https://www.linkedin.com/in/dtaberna">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin Badge">
-    </a>
-    <a href="mailto:dtaberna96@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
-    </a>
-</div>  
 
 ---
 
@@ -39,9 +39,8 @@ Me enfoco en transformar datos crudos en activos de negocio confiables y escalab
 
 #### 🗄️ Databases & Querying
 <p align="left">
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square" alt="Athena" />
   <img src="https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=flat-square&logo=amazon-redshift&logoColor=white" alt="Redshift" />
 </p>
 
