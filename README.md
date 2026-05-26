@@ -1,46 +1,54 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="200" />
-    <h1 align="center">Hi 👋, I'm Daniel</h1>
-    <h3 align="center">A passionate Data Analyst from Argentina. I like to take on new challenges that require me to apply everything I have learned during my constant training. 
-    I consider myself a restless person with a great desire to improve and learn. 
-    </h3>
+    <img src="https://media.giphy.com/media/92cu6TfCZDVRBkmmDu/giphy.gif" width="160" />
+    <h1 align="center">Hi 👋, I'm Daniel Taberna</h1>
+    <h3 align="center">Data Analyst & Analytics Engineer</h3>
+    <p align="center">
+        Especializado en el diseño de modelos de datos eficientes, optimización de performance y automatización de pipelines en entornos productivos. 
+    </p>
 </div>
               
-<div id="badges" align = "center">
-    <a href = "https://www.linkedin.com/in/dtaberna">
-        <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt = "Linkedin Badge">
+<div id="badges" align="center">
+    <a href="https://www.linkedin.com/in/dtaberna">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="Linkedin Badge">
     </a>
-     <a href="mailto:dtaberna96@gmail.com">
-        <img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-            alt = "Gmail Badge">
+    <a href="mailto:dtaberna96@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail Badge">
     </a>
-  </div>  
+</div>  
 
 ---
 
-<div id="about-me" style="text-align: left;">
-    <h3>👨‍💻 About Me :</h3>
-    <ul>
-        <li>📝 I work as a Reporting & Bi Implementation Analyst</li>
-        <li>📫 How to reach me <strong>dtaberna96@gmail.com</strong></li>
-        <li>🌱 I’m currently learning <strong>Python for Data</strong></li>
-    </ul>
-</div>
+### 👨‍💻 Perfil Profesional
 
+Me enfoco en transformar datos crudos en activos de negocio confiables y escalables. Trabajo en la intersección entre el análisis de negocio y la ingeniería de datos, garantizando modelos sólidos y consultas optimizadas.
 
-<div align="left">
-    <h3>🔨 Languages and Tools:</h3>
-    <div>
-        <img src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" title="Microsfot SQL Server" alt="SQL Server" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"  title="Microsoft Power Bi" alt="Power Bi" width="40" height="40"/>&nbsp;
-        <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" title="Tableau" alt="Tableau" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-        <img src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" title="Microsoft Excel"  alt="Excel" width="40" height="40"/>&nbsp;
-      </div>
-</div>
+* **Data Modeling & Performance:** Diseño de arquitecturas limpias, lógicas incrementales eficientes y control de históricos.
+* **Modern Data Stack:** Implementación de pipelines de datos y transformaciones robustas orientadas a performance.
+* **Métricas de Negocio:** Desarrollo de modelos analíticos complejos en BI, sensibles a filtros y contextos dinámicos.
+
+---
+
+### 🔨 Tech Stack
+
+#### ☁️ Cloud & Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white" alt="dbt" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+</p>
+
+#### 🗄️ Databases & Querying
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/AWS%20Athena-232F3E?style=flat-square" alt="Athena" />
+  <img src="https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=flat-square&logo=amazon-redshift&logoColor=white" alt="Redshift" />
+</p>
+
+#### 📊 Business Intelligence & Analytics
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
+</p>
 
 ---
